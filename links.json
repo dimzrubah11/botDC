@@ -1,0 +1,56 @@
+[
+  {
+    "nama": "FSOS-X R11H2",
+    "basis": "Windows 10 / 11",
+    "versi": "R11H2",
+    "ukuran": "~40 MB",
+    "tipe": "Playbook (.apbx)",
+    "link": "https://www.mediafire.com/file/jscaaly3ehualgm/FSOS-XR11H2.apbx/file",
+    "catatan": "Apply via AME Wizard. Windows fresh install disarankan."
+  },
+  {
+    "nama": "FSOS-X R9+",
+    "basis": "Windows 10 / 11",
+    "versi": "R9+",
+    "ukuran": "~40 MB",
+    "tipe": "Playbook (.apbx)",
+    "link": "https://www.mediafire.com/file/7bn45erghd7nzie/FSOS-XR9+.apbx/file",
+    "catatan": "Apply via AME Wizard. Windows fresh install disarankan."
+  },
+  {
+    "nama": "AtlasOS Playbook",
+    "basis": "Windows 10 / 11",
+    "versi": "v0.5.0",
+    "ukuran": "~40 MB",
+    "tipe": "Playbook (.apbx)",
+    "link": "https://www.mediafire.com/file/m2n7srb02sfxaie/AtlasPlaybook_v0.5.0.apbx/file",
+    "catatan": "Apply via AME Wizard. Windows fresh install disarankan."
+  },
+  {
+    "nama": "SynergyOS",
+    "basis": "Windows 10 / 11",
+    "versi": "latest",
+    "ukuran": "~40 MB",
+    "tipe": "Playbook (.apbx)",
+    "link": "https://www.mediafire.com/file/i2td63g1at4xk1d/SynergyOS.apbx/file",
+    "catatan": "Apply via AME Wizard. Windows fresh install disarankan."
+  },
+  {
+    "nama": "ReviOS Playbook",
+    "basis": "Windows 10 / 11",
+    "versi": "26.10",
+    "ukuran": "~40 MB",
+    "tipe": "Playbook (.apbx)",
+    "link": "https://www.mediafire.com/file/m2jlv8on38yqhnu/Revi-PB-26.10.apbx/file",
+    "catatan": "Apply via AME Wizard. Windows fresh install disarankan."
+  },
+  {
+    "nama": "WinUP OS",
+    "basis": "Windows 10 / 11",
+    "versi": "1.8.8",
+    "ukuran": "~40 MB",
+    "tipe": "Playbook (.apbx)",
+    "link": "https://www.mediafire.com/file/afm4qmmydmnibpd/WinUP-OS-1.8.8.apbx/file",
+    "catatan": "Apply via AME Wizard. Windows fresh install disarankan."
+  }
+]
